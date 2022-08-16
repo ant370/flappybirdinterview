@@ -12,11 +12,11 @@ The game should run in any modern browser, and all library functions used should
 
 In the two sections found below are a set of bugs that have been identified by players, and feature requests.
 
-Your task is to take a few bugs and feature requests and develop the code to implment those fixes and features. 
+Your task is to take a few bugs and feature requests and develop the code to implement those fixes and features. 
 
-(NOTE: You are not expected to come even close to implementing all of the possible bugs and features. Quality and thoughful solutions to these problems is what we are looking for.)
+(NOTE: You are not expected to come even close to implementing all of the possible bug fixes and suggested features.)
 
-Chose the bugs and feature requests that you think will best show your skills, don't be afraid to leave pseudocode/partial solutions in your code. We are looking to find out about your problem solving skills and creativity.
+Chose the bugs and feature requests that you think will best show your skills, don't be afraid to leave pseudo-code/partial solutions in your code. We are looking to find out about your problem solving skills and creativity.
 
 Best of luck, and if you require any assistance just ask!
 
@@ -27,7 +27,7 @@ Best of luck, and if you require any assistance just ask!
 - Pressing the Escape key should end the game
 - Add a worst score keeper on the game over screen.
 - Add multiple lives to the bird, allowing the bird to collide with the tunnels up to three times before the game ends. (../img/bird/b3.png could be used to show the player visually that a collision has occurred.) Perhaps the bird should be teleported to a safe location after collision? 
-- Add randomly placed diamonds, that when collected, give the player +2 points. See ../img/diamond.png for a diamond assett.
+- Add randomly placed diamonds, that when collected, give the player +2 points. See ../img/diamond.png for a diamond asset.
 
 # Bugs
 
