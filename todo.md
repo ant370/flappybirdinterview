@@ -12,9 +12,11 @@ The game should run in any modern browser, and all library functions used should
 
 In the two sections found below are a set of bugs that have been identified by players, and feature requests.
 
-Your task is to take a variety of bugs and feature requests and develop the code to implment fixes and features. 
+Your task is to take a few bugs and feature requests and develop the code to implment those fixes and features. 
 
-Chose the bugs and feature requests that you think will best show your working, don't be afraid to leave pseudocode/partial solutions in your code. We are looking to find out about your problem solving skills and creativity.
+(NOTE: You are not expected to come even close to implementing all of the possible bugs and features. Quality and thoughful solutions to these problems is what we are looking for.)
+
+Chose the bugs and feature requests that you think will best show your skills, don't be afraid to leave pseudocode/partial solutions in your code. We are looking to find out about your problem solving skills and creativity.
 
 Best of luck, and if you require any assistance just ask!
 
